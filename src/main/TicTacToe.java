@@ -1,4 +1,5 @@
 package main;
+
 public class TicTacToe {
     public static class GameXO {
         private final int fieldSize;
